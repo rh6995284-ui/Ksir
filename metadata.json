@@ -1,0 +1,6 @@
+{
+  "name": "KHC Barbershop",
+  "description": "Aplikasi kasir dan manajemen transaksi KHC Barbershop dengan pencatatan barberman, transaksi potong rambut, dan rekap laporan keuangan",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
